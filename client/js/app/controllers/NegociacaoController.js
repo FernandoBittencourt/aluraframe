@@ -18,12 +18,5 @@ class NegociacaoController{
             this._inputQuantidade.value,
             this._inputValor.value
         );
-
-        console.log(negociacao);
-
-        let diaMesAno = DateHelper.dataParaTexto(negociacao.data);
-
-        console.log(diaMesAno);
-
 	}
 }
