@@ -11,9 +11,7 @@ class NegociacaoController{
 	adiciona(event) {
         event.preventDefault();
 
-        let data = new Date(...this._inputData
-            .value.split('-')
-            .map((item, indice) => item - indice % 2));
+        let data = DateHelper.textoParaData(this._inputData.value);
 
         let negociacao = new Negociacao(
             data,
@@ -22,5 +20,10 @@ class NegociacaoController{
         );
 
         console.log(negociacao);
+
+        let diaMesAno = DateHelper.dataParaTexto(negociacao.data);
+
+        console.log(diaMesAno);
+
 	}
 }
