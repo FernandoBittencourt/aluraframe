@@ -5,9 +5,11 @@ class View {
     }
 
     update(model) {        
-        this._elemento.innerHTML = this._template(model); 
+        this._elemento.innerHTML = this.template(model); 
     }
 
-    _template(model) {}
+    template(model) {
+    	throw new Error('Você deve sobrescrever este método em seu template');
+    }
 
 }
