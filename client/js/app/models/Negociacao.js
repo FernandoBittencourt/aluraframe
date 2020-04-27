@@ -23,4 +23,8 @@ class Negociacao {
     get valor() {
         return this._valor;
     }
+
+    get volumeTotal() {
+        return this._negociacoes.reduce((total, n) => total + n.volume, 0.0);
+    }
 }
