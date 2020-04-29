@@ -10,4 +10,5 @@ Em um primeiro momento, o escopo da nossa aplicação pode parecer bem reduzido,
 
 #Site do curso
 Parte 1: https://www.alura.com.br/curso-online-javascript-es6-orientacao-a-objetos-parte-1
+
 Parte 2: https://www.alura.com.br/curso-online-javascript-es6-orientacao-a-objetos-parte-2
