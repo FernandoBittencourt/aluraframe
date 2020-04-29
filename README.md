@@ -8,7 +8,7 @@ O projeto desse curso será um cadastro de negociações de bolsa de valores. Se
 # Sobre o curso
 Em um primeiro momento, o escopo da nossa aplicação pode parecer bem reduzido, mas é o suficiente para ser aplicardo novos recursos da linguagem JavaScript, ou ECMAScript 2015 (ES6), tecnicamente falando. Além disso, o código será organizado no modelo MVC (Model-View-Controller), será aplicado padrões de projeto, será programado assincronamente com promises, será renderizado templates e será trabalhado com proxies, entre outras coisas.
 
-#Site do curso
+# Site do curso
 Parte 1: https://www.alura.com.br/curso-online-javascript-es6-orientacao-a-objetos-parte-1
 
 Parte 2: https://www.alura.com.br/curso-online-javascript-es6-orientacao-a-objetos-parte-2
