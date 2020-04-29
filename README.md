@@ -1,7 +1,7 @@
 # Alura-Frame
 Projeto desenvolvido no curso "JavaScript avançado I: ES6, orientação a objetos e padrões de projetos" da Alura e finalizado na segunda parte do curso "JavaScript avançado II: ES6, orientação a objetos e padrões de projetos".
 
-##Versão
+## Versão
 Foram criadas duas tags para representar cada parte do curso, contendo o código-fonte de cada etapa. 
 A versão 1.0.0 representando a primeira parte do curso e a versão 2.0.0 representando a segunda parte.
 
